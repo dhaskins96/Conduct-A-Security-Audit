@@ -8,7 +8,7 @@ In this project, I conducted an internal IT audit for a business using the NIST 
 <br />
 
 <h2>Scenario</h2>
-Botium Toys (fictional company) is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+Botium Toys, a small U.S. toy business with a growing online presence, is facing increased IT demands to support global customers. Concerned about compliance and operational risks, the IT manager initiated an internal audit to identify vulnerabilities and improve security. Using the NIST Cybersecurity Framework, the audit will assess the company’s infrastructure, focusing on mitigating risks and ensuring compliance with online payment processing and E.U. regulations.
 
 The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
 
