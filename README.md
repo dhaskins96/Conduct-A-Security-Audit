@@ -1,6 +1,6 @@
 <h1>Conduct A Security Audit Project</h1>
 
-[Risk Assessment Google Doc](https://docs.google.com/document/d/1RDQohdLT9qmMhMy6XHlt_7f6lBvbLDx5N-oAyfrdLk0/edit)
+[Risk Assessment Report Google Doc](https://docs.google.com/document/d/1RDQohdLT9qmMhMy6XHlt_7f6lBvbLDx5N-oAyfrdLk0/edit)
 
 <h2>Description</h2>
 In this project, I conducted an internal IT audit for a business using the NIST Cybersecurity Framework, reviewing the IT manager’s scope, goals, and risk assessment to assess risks and compliance. I completed a controls and compliance checklist to help secure their infrastructure and ensure regulatory adherence for online payments and E.U. operations.
