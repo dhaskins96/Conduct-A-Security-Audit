@@ -1,4 +1,4 @@
-<h1>Conduct A Security Audit Project</h1>
+<h1>Internal IT Audit: Risk Assessment and Compliance (NIST Cybersecurity Framework)</h1>
 
 [Risk Assessment Report Google Doc](https://docs.google.com/document/d/1RDQohdLT9qmMhMy6XHlt_7f6lBvbLDx5N-oAyfrdLk0/edit)
 
